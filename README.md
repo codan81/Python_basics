@@ -3,12 +3,12 @@
 
 ![Python_basics](image/AdobeStock_248910170.jpg)
 
-This is a series of Python basic ecxercises that allows users to see, learn and understand how to use Python 
+This is a series of Python basic ecxercises that allows users to see, learn and understand how to use Python.
 ---
 
 ## Technologies
 
-This project leverages python 3.7 with the following packages:
+This project leverages python 3.7. 
 
 
 ---
